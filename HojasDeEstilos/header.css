@@ -1,0 +1,41 @@
+@font-face{
+    font-family: "ACKNO";
+    src: url(/Recursos/ACKNO.TTF);
+}
+
+
+header{
+    font-family: "ACKNO";
+    text-align: center;
+    width: 100.8%;
+    height: 70px;
+    background-color: rgb(56, 56, 56);
+    margin: -0.4%;
+}
+
+header img{
+    width: 20%;
+    float: left;
+    margin-left: 30%;
+    margin-top: 0.25%;
+}
+
+header div{
+    border: solid;
+    border-color: white;
+    width: 17%;
+    height: 30px;
+    float: right;
+    text-align: center;
+    margin-top: 0.7%;
+    margin-right: 27%;
+}
+
+header a{
+    float: left;
+    text-decoration: none;
+    color: white;
+    margin-left: 4%;
+    margin-top: 2.5%;
+    font-size: 85%;
+}
